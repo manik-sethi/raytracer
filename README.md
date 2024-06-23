@@ -6,8 +6,9 @@ This project is an implementation of a basic ray tracing algorithm. Ray tracing 
 
 Getting Started
 # Before:
-!(Before)[https://raytracing.github.io/images/img-1.05-normals-sphere-ground.png]
-After
+![Normals Sphere Ground](https://raytracing.github.io/images/img-1.05-normals-sphere-ground.png)
+
+# After
 
 # Features
 Basic ray tracing
