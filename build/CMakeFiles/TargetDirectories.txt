@@ -1,0 +1,3 @@
+/Applications/raytracer/build/CMakeFiles/raytracer.dir
+/Applications/raytracer/build/CMakeFiles/edit_cache.dir
+/Applications/raytracer/build/CMakeFiles/rebuild_cache.dir
