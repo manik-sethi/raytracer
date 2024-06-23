@@ -6,9 +6,9 @@ This project is an implementation of a basic ray tracing algorithm. Ray tracing 
 
 I found these videos to be quite helpful:
 
-[How Ray Tracing (Modern CGI) Works And How To Do It 600x Faster](https://www.youtube.com/watch?v=gsZiJeaMO48)
-[Raytracing Explained](https://www.youtube.com/watch?v=oCsgTrGLDiI)
-[Ray Tracing in 5 minutes](https://www.youtube.com/watch?v=H5TB2l7zq6s)
+[How Ray Tracing (Modern CGI) Works And How To Do It 600x Faster](https://www.youtube.com/watch?v=gsZiJeaMO48)  
+[Raytracing Explained](https://www.youtube.com/watch?v=oCsgTrGLDiI)  
+[Ray Tracing in 5 minutes](https://www.youtube.com/watch?v=H5TB2l7zq6s)  
 
 # Before:
 ![Normals Sphere Ground](https://raytracing.github.io/images/img-1.05-normals-sphere-ground.png)
