@@ -10,8 +10,9 @@ I found these videos to be quite helpful:
 [Raytracing Explained](https://www.youtube.com/watch?v=oCsgTrGLDiI)  
 [Ray Tracing in 5 minutes](https://www.youtube.com/watch?v=H5TB2l7zq6s)  
 
+
 # Before:
-![Normals Sphere Ground]([https://raytracing.github.io/images/img-1.05-normals-sphere-ground.png](https://raytracing.github.io/images/img-1.03-red-sphere.png))
+![Normals Sphere Ground]([https://raytracing.github.io/images/img-1.05-normals-sphere-ground.png](https://raytracing.github.io/images/img-1.03-red-sphere.png)
 
 # After:
 ![Final Rendered Scene](https://raytracing.github.io/images/img-1.23-book1-final.jpg)
