@@ -11,18 +11,17 @@ I found these videos to be quite helpful:
 [Ray Tracing in 5 minutes](https://www.youtube.com/watch?v=H5TB2l7zq6s)  
 
 # Before:
-![Normals Sphere Ground](https://raytracing.github.io/images/img-1.05-normals-sphere-ground.png)
+![Normals Sphere Ground]([https://raytracing.github.io/images/img-1.05-normals-sphere-ground.png](https://raytracing.github.io/images/img-1.03-red-sphere.png))
 
 # After:
 ![Final Rendered Scene](https://raytracing.github.io/images/img-1.23-book1-final.jpg)
 
-# Features
-Basic ray tracing
-Sphere rendering
-Simple lighting model
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+# Procedure
+
+
 
 # Acknowledgments
-Peter Shirley for the fantastic guide "Ray Tracing in One Weekend"
-Ray Tracing in One Weekend - Original guide and resources
+Peter Shirley for the fantastic guide: "Ray Tracing in One Weekend"
+@LudwigABAP on twitter for introducing me to the project
+
+This project is licensed under the MIT License - see the LICENSE file for details.
