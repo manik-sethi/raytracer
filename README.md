@@ -12,7 +12,7 @@ I found these videos to be quite helpful:
 
 
 # Before:
-![Normals Sphere Ground]([https://raytracing.github.io/images/img-1.05-normals-sphere-ground.png](https://raytracing.github.io/images/img-1.03-red-sphere.png)
+![Normals Sphere Ground](https://raytracing.github.io/images/img-1.05-normals-sphere-ground.png)
 
 # After:
 ![Final Rendered Scene](https://raytracing.github.io/images/img-1.23-book1-final.jpg)
