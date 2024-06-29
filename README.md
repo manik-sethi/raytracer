@@ -14,7 +14,7 @@ I found these videos to be quite helpful:
 ![Normals Sphere Ground](https://raytracing.github.io/images/img-1.05-normals-sphere-ground.png)
 
 # After:
-WIP!
+![Final Rendered Scene](https://raytracing.github.io/images/img-1.23-book1-final.jpg)
 
 # Features
 Basic ray tracing
