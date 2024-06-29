@@ -418,8 +418,10 @@ CMakeFiles/raytracer.dir/main.cc.o: /Applications/raytracer/main.cc \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/sys/_types/_fsfilcnt_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/_types/_nl_item.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/__bsd_locale_defaults.h \
-  /Applications/raytracer/color.h /Applications/raytracer/vec3.h \
-  /Applications/raytracer/ray.h /Applications/raytracer/hittable.h \
+  /Applications/raytracer/color.h /Applications/raytracer/interval.h \
+  /Applications/raytracer/vec3.h /Applications/raytracer/ray.h \
+  /Applications/raytracer/camera.h /Applications/raytracer/hittable.h \
+  /Applications/raytracer/material.h \
   /Applications/raytracer/hittable_list.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/vector \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/__split_buffer \
